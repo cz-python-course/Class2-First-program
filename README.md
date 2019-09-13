@@ -1,4 +1,4 @@
-# Class2-First-program
+# Class2 - First-program
 
 Okay, so this is the time to start programming, right? YES! You can clone this project in repl.it using the url in your address bar (its [this](https://github.com/cz-python-course/Class2-First-program), if you want to make sure)
 After you open the project the project in repl, you will find the main.py file. We will work on that file.
