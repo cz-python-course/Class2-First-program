@@ -118,3 +118,5 @@ dayThree = input('How many cups of coffee you drank 3 days ago?')
 average = (int(dayOne) + int(dayTwo) + int(dayThree)) / 3
 print('the average is:' + str(average))
 ```
+
+After that, Your Code should be working correctly
